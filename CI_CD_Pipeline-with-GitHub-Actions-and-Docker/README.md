@@ -66,7 +66,7 @@ jobs:
 
 
 # Pull & Run Docker Image:
-- docker pull your-docker-username/myapp:latest -------> https://docker pull ramakrishnaragi/python-flask-app:latest (docker hub link)
+- docker pull your-docker-username/myapp:latest -------> https://hub.docker.com/repository/docker/ramakrishnaragi/python-flask-app/tags/latest/sha256:d7fe0f422c9e6e427f89f571beb7e6664a5d61bd721de223d86a943abbeed754 (docker hub link)
 - docker run -p 5000:5000 your-docker-username/myapp:latest
 
 ![image](https://github.com/user-attachments/assets/1d126492-df36-4f14-912a-41814dbde134)
